@@ -1,3 +1,6 @@
 [submodule "VLMs/ViC"]
-	path = VLMs/ViC
+	path = VLMs/ViC-CVPR-Findings-2026
 	url = https://github.com/mohammad2012191/ViC
+[submodule "NLP/AutoArabic-ArabicNLP-2025"]
+	path = NLP/AutoArabic-ArabicNLP-2025
+	url = https://github.com/Tahaalshatiri/AutoArabic
