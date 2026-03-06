@@ -1,0 +1,3 @@
+[submodule "VLMs/ViC"]
+	path = VLMs/ViC
+	url = https://github.com/mohammad2012191/ViC
