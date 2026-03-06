@@ -4,3 +4,6 @@
 [submodule "NLP/AutoArabic-ArabicNLP-2025"]
 	path = NLP/AutoArabic-ArabicNLP-2025
 	url = https://github.com/Tahaalshatiri/AutoArabic
+[submodule "Computer-Vision/Jarir-Customer-Behavior"]
+	path = Computer-Vision/Jarir-Customer-Behavior
+	url = https://github.com/Hassan-Mohammed-Nasr/Intelligent-Computer-Vision-System-for-Customer-Behavior-Analysis-in-Jarir-Bookstores
