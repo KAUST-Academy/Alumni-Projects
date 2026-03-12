@@ -7,3 +7,135 @@
 [submodule "Computer-Vision/Jarir-Customer-Behavior"]
 	path = Computer-Vision/Jarir-Customer-Behavior
 	url = https://github.com/Hassan-Mohammed-Nasr/Intelligent-Computer-Vision-System-for-Customer-Behavior-Analysis-in-Jarir-Bookstores
+[submodule "Computer-Vision/Car-Emission-Estimation"]
+	path = Computer-Vision/Car-Emission-Estimation
+	url = https://github.com/Joud73/Car-Emission-Estimation
+[submodule "Data-Science/piccard"]
+	path = Data-Science/piccard
+	url = https://github.com/ecorbin567/piccard2
+[submodule "NLP/ECBC-2025"]
+	path = NLP/ECBC-2025
+	url = https://github.com/Raghad-Aljohani/ECBC-2025
+[submodule "Graph-ML/CountHomLib"]
+	path = Graph-ML/CountHomLib
+	url = https://github.com/kevinwangwkw/CountHomLib
+[submodule "Agents/GRC_Agent"]
+	path = Agents/GRC_Agent
+	url = https://github.com/MaithaAlmuharrami/GRC_Agent
+[submodule "Computer-Vision/DHM"]
+	path = Computer-Vision/DHM
+	url = https://github.com/MaherAlhijile/DHM
+[submodule "Bioinformatics/glioma-scRNA-S100A6"]
+	path = Bioinformatics/glioma-scRNA-S100A6
+	url = https://github.com/AiBJ/Single-cell-analysis-of-human-glioma-and-immune-cells-identifies-S100A6-
+[submodule "Robotics/motor_driver"]
+	path = Robotics/motor_driver
+	url = https://github.com/sultanf110/motor_driver
+[submodule "Bioinformatics/Boltz-2_Benchmark"]
+	path = Bioinformatics/Boltz-2_Benchmark
+	url = https://github.com/Mohammed-Balkhair-hub/Boltz-2_Benchmark
+[submodule "VLMs/video-captioning-summarization"]
+	path = VLMs/video-captioning-summarization
+	url = https://github.com/ifaris25/KAUST-Project
+[submodule "Bioinformatics/Gut_Microbiome_Dynamics"]
+	path = Bioinformatics/Gut_Microbiome_Dynamics
+	url = https://github.com/FatimaAbduljabar7/Gut_Microbiome_Dynamics
+[submodule "Climate-Science/Climate-Downscaling-Saudi-Arabia"]
+	path = Climate-Science/Climate-Downscaling-Saudi-Arabia
+	url = https://github.com/Hassan-Ahlgamdi/Climate-Downscaling-in-Saudi-Arabia
+[submodule "Bioinformatics/protein-data-analysis"]
+	path = Bioinformatics/protein-data-analysis
+	url = https://github.com/Balqeesya/My-Rcodes
+[submodule "LLM-Applications/GenIELTS"]
+	path = LLM-Applications/GenIELTS
+	url = https://github.com/MahmoudOmar03/GenIELTS
+[submodule "Bioinformatics/SingleCell_RNASeq_GlialCells"]
+	path = Bioinformatics/SingleCell_RNASeq_GlialCells
+	url = https://github.com/wateenalshawi-max/SingleCell_RNASeq_AnalysisGlialCells
+[submodule "VLMs/Muraqeb"]
+	path = VLMs/Muraqeb
+	url = https://github.com/AnasKAN/Muraqeb
+[submodule "IoT/LoRa-QTree"]
+	path = IoT/LoRa-QTree
+	url = https://github.com/AbdullahAlmanei/LoRa-QTree
+[submodule "LLM-Applications/PeerGPT-RCT"]
+	path = LLM-Applications/PeerGPT-RCT
+	url = https://github.com/rootSU5F/PeerGPT-RCT
+[submodule "Data-Science/Beyond_Swabs"]
+	path = Data-Science/Beyond_Swabs
+	url = https://github.com/L4M315/beyond_swabs
+[submodule "Reinforcement-Learning/corerl"]
+	path = Reinforcement-Learning/corerl
+	url = https://github.com/ndehais/corerl
+[submodule "Bioinformatics/TB-CrossBorder-Genomics"]
+	path = Bioinformatics/TB-CrossBorder-Genomics
+	url = https://github.com/LamaAlbishri/Genomic-Investigation-of-Cross-Border-M.-tuberculosis-Transmission-in-Southern-Africa
+[submodule "Bioinformatics/EnzymesBreakthrough"]
+	path = Bioinformatics/EnzymesBreakthrough
+	url = https://github.com/ahmedbahaj/EnzymesBreakthrough
+[submodule "Bioinformatics/MS-DEG-Progression"]
+	path = Bioinformatics/MS-DEG-Progression
+	url = https://github.com/saad-aldawsari/KAUST-Cambridge-BI-Final-Project
+[submodule "IoT/Mosquito-Acoustic-TinyML"]
+	path = IoT/Mosquito-Acoustic-TinyML
+	url = https://github.com/Jack-froOost/Mosquito-species-classification-based-on-acoustic-signals-on-microcontrollers
+[submodule "Computer-Vision/ERHC"]
+	path = Computer-Vision/ERHC
+	url = https://github.com/Hebah-Soleman/ERHC
+[submodule "Bioinformatics/VNTR-Coding-Regions"]
+	path = Bioinformatics/VNTR-Coding-Regions
+	url = https://github.com/MahaAlsuhaymi/Investigating-VNTRs-Overlapping-Coding-Regions
+[submodule "Data-Science/Numerical-Literacy-US-Households"]
+	path = Data-Science/Numerical-Literacy-US-Households
+	url = https://github.com/AwsAlsaedi/STUDYING-NUMERICAL-LITERACY-ACROSS-GENERATIONS-IN-U.S.-HOUSEHOLDS
+[submodule "IoT/EdgeAI-S-Compression"]
+	path = IoT/EdgeAI-S-Compression
+	url = https://github.com/moalziyad/TRIL-Fellowship
+[submodule "LLM-Applications/Jarir-NLP"]
+	path = LLM-Applications/Jarir-NLP
+	url = https://github.com/A1maan/jarir-nlp
+[submodule "Bioinformatics/RNAseq-ASD-Puberty"]
+	path = Bioinformatics/RNAseq-ASD-Puberty
+	url = https://github.com/FatimaEssaz/RNA--seq-analysis-
+[submodule "Bioinformatics/C-elegans-RNAseq"]
+	path = Bioinformatics/C-elegans-RNAseq
+	url = https://github.com/SuhaibAG/Kaust-Cambridge-C.elegans--RNA-seq-Analysis
+[submodule "Astrophysics/UNet-TOD-Glitch-Detection"]
+	path = Astrophysics/UNet-TOD-Glitch-Detection
+	url = https://github.com/Abdulaziz216/unet-for-glitch-detection
+[submodule "Data-Science/Soccer-Seq2Seq-Forecasting"]
+	path = Data-Science/Soccer-Seq2Seq-Forecasting
+	url = https://github.com/Shouq-Alsulami/Seq2Seq-Event-Forecasting-of-Soccer-Ball-Actions
+[submodule "IoT/Hajj-Umrah-Voice-RAG"]
+	path = IoT/Hajj-Umrah-Voice-RAG
+	url = https://github.com/hknl5/Haj-and-Umrah-assistant-using-RAG-
+[submodule "Agents/MythBuster"]
+	path = Agents/MythBuster
+	url = https://github.com/asaazamaan/MythBuster
+[submodule "Data-Science/ASR-Model-Benchmarking"]
+	path = Data-Science/ASR-Model-Benchmarking
+	url = https://github.com/BinAl-Sadiq/KAUST-25-AI-SP-Models
+[submodule "IoT/FPGA-SpMV-Optimization"]
+	path = IoT/FPGA-SpMV-Optimization
+	url = https://github.com/Ghqlq/FPGA-SpMV-Optimization-ICTP
+[submodule "Bioinformatics/Proteomics-Cambridge-Bio"]
+	path = Bioinformatics/Proteomics-Cambridge-Bio
+	url = https://github.com/jori-as/Kaust-Camabridge-Bio-Project
+[submodule "VLMs/VidConSurv"]
+	path = VLMs/VidConSurv
+	url = https://github.com/ManarEyad7/VidConSurv
+[submodule "Bioinformatics/TLR4-PeptideGPT-Adjuvants"]
+	path = Bioinformatics/TLR4-PeptideGPT-Adjuvants
+	url = https://github.com/sarafliti/project-kaustAI
+[submodule "VLMs/Food-Nutrition-Analyzer"]
+	path = VLMs/Food-Nutrition-Analyzer
+	url = https://github.com/ibshaya/food
+[submodule "LLM-Applications/Sycophancy-Diagnostic-Benchmark"]
+	path = LLM-Applications/Sycophancy-Diagnostic-Benchmark
+	url = https://github.com/HIVE-UofT/Investigating-The-Impact-of-Sycophancy-on-Diagnostic-Accuracy
+[submodule "IoT/mmwave-radar-lib"]
+	path = IoT/mmwave-radar-lib
+	url = https://github.com/Aboshxm2/mmwave
+[submodule "Bioinformatics/Inflammation-Olfactory-Transcriptomes"]
+	path = Bioinformatics/Inflammation-Olfactory-Transcriptomes
+	url = https://github.com/WedyanFawaz/Beyond-Scent-Detection-Inflammation-Sculpts-Neuronal-Transcriptomes-in-the-Mouse-Nose
