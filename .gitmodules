@@ -139,3 +139,6 @@
 [submodule "Bioinformatics/Inflammation-Olfactory-Transcriptomes"]
 	path = Bioinformatics/Inflammation-Olfactory-Transcriptomes
 	url = https://github.com/WedyanFawaz/Beyond-Scent-Detection-Inflammation-Sculpts-Neuronal-Transcriptomes-in-the-Mouse-Nose
+[submodule "Computer-Vision/aquatic_insect_ml"]
+	path = Computer-Vision/aquatic_insect_ml
+	url = https://github.com/hlowman/aquatic_insect_ml
